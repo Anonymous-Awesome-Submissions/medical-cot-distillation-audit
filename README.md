@@ -1,4 +1,6 @@
-Project Structure
+# Project Structure
+
+```
 .
 ├── README.md
 ├── requirements.txt
@@ -50,4 +52,4 @@ Project Structure
     │   └── exp_z_universal_style_circuit.py   # Cross-family style-layer localization (per-model hedge patch-recovery runs)
     └── utils/
         └── answer_extract.py                  # Regex MCQ answer-letter extractor (A-D) shared by the CoT generation scripts
-
+```
